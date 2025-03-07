@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World!<br><br>Welcome to my GitHub! I'm Viet Tran, an aspiring Full Stack Developer with a passion for crafting innovative software solutions. Currently, I'm pursuing a degree in Information Technology at Metropolia University of Applied Sciences, where I specialize in Software Engineering.<br><br>Check out my Portfolio for more! :) <br>https://viettran.fi
+👋 Hello World!<br><br>Welcome to my GitHub! <br><br>I'm Viet, an upcoming Software Engineer with a passion for solving a wide range of problems, particularly focusing on alleviating everyday pain points people face via Software. My strenghts are in MERN-stack but beware Tech and Tools wont bug me! :)  <br><br>Currently, I'm pursuing a degree in Information Technology at Metropolia University of Applied Sciences, where I specialize in Software Engineering.<br><br>Check out my Portfolio for more! :) <br>https://viettran.fi
 
 
 ## 🌐 Socials:
