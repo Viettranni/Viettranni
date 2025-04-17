@@ -20,7 +20,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=viettranni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![Visitor Count](https://visitcount.itsvg.in/api?id=viettranni&icon=0&color=0)
+![Profile views](https://komarev.com/ghpvc/?username=viettranni&color=blue)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
